@@ -1,5 +1,0 @@
-# Step 1: Install Sass globally so it's available anywhere on the system
-npm install -g sass
-
-# Step 2: Verify that Sass was installed successfully by checking its version
-sass --version
